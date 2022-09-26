@@ -32,3 +32,12 @@ console.log(typeof null);
 
 
 // ===== DECLARE VARIABLES =====
+let age = 24;
+age = 25;
+
+const birthYear = 1998;
+//birthYear = 2000;
+//const can't change.
+
+//const job;
+//const need inicialization
